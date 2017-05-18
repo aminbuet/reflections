@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you the bug that was introduced?
+--- by comparing them
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+---- they are different reason.
+
+How can you use the commands git log and git diff to view the history of files?
+---- git log show all commit and git diff compare two commit.
